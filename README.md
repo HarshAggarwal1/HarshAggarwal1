@@ -5,7 +5,7 @@
     <div align="center">
         <a href="https://github.com/HarshAggarwal1">
             <img
-                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harsh+Aggarwal;Student;Android+Developer+Software+Engineer;Open-Source+Enthusiast"
+                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harsh+Aggarwal;Student;Android+Developer;Software+Engineer;Open-Source+Enthusiast"
             />
         </a>
     </div>
@@ -54,7 +54,7 @@ About Me = [
 
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
-    <code><a href="https://keras.io/" target="_blank"> <img src="![keras](https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/76300410-c214-41b9-b918-45a7959fc363)" title="NodeJS" alt="nodejs" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://keras.io/" target="_blank"> <img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/76300410-c214-41b9-b918-45a7959fc363" title="NodeJS" alt="nodejs" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/nextjs-original.svg" title="NextJS" alt="nextjs" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://expressjs.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/express-original.svg" title="ExpressJS" alt="expressjs" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/bootstrap-original.svg" title="BootStrap" alt="bootstrap" width="40" height="40"/></a></code>&nbsp;
