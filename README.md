@@ -48,6 +48,14 @@ About Me = [
     "I am in my world !! 💞"
 ]
 ```
+<br>    
+
+## 🧑‍💻 GSSoc'23 Open-Source Project Collaboration 
+    
+|S.No.|Open Source Program | Project |  Contribution Link|
+|--------|----|----|----|
+| 1 | Taaveez 📱| Android Application | [Project link](https://github.com/Suryansh1720001/Taaveez) & [Live link](https://play.google.com/store/apps/details?id=com.itssuryansh.taaveez) |
+| 2 | ML-Project-Drug-Review-Dataset 📜 | ML Project | [Project link](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset) |
 
 <div align="center">
     <h1>Skill Set 💪</h1>
@@ -83,33 +91,4 @@ About Me = [
     <code><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/git-original.svg" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://jupyter.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/jupyter-original.svg" title="Jupyter Notebook" alt="jupyter" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/dbc21551-755e-470e-8f19-a9542513cb97" title="Android Studio" alt="android-studio" width="40" height="40"/></a></code>&nbsp;
-</div>
-
-<div>
-    <div align="center">
-        <h1>📊 Github Stats</h1>
-        <a href="https://github.com/AyushAgnihotri2025"><img src="https://github-readme-stats.vercel.app/api?username=AyushAgnihotri2025&theme=blue-green&count_private=true&show_icons=true" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
-        <br>
-        <a href="https://github.com/AyushAgnihotri2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAgnihotri2025&theme=blue-green" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
-        <br><br>
-    </div>
-</div>
-
-<div align="center">
-    <h2>📊 Top Used Languages</h2>
-    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="AyushAgnihotri2025's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAgnihotri2025&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="AyushAgnihotri2025's Top Languages"/></a><br>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    <br><br>
-</div>
-
-<div align="center">
-    <h2>📊 Contribution Graph</h2>
-    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="Ayush Agnihotri's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=AyushAgnihotri2025&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Contribution Graph"/></a>
-</div>
-<br><br>
-<div>
-    <div align="center">
-        <a href="https://www.google.com/search?q=How+to+make+my+Internet+Connection+faster+%3F" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.gif" title="Loading..." height="100"/></a>
-        <p>Loading...</p>
-    </div>
 </div>
