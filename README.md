@@ -66,15 +66,6 @@ About Me = [
     <h3><b>Databases</b></h3>
     <code><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/mysql-original.svg" title="MySql" alt="mysql" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://firebase.com/" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/firebase-icon.svg" title="Firebase" alt="firebase" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/postgresql-original.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://mongodb.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/mongodb-original.svg" title="MongoDB" alt="mongodb" width="40" height="40"/></a></code>&nbsp;
-</div>
-
-<div align="center">
-    <h3><b>Cloud</b></h3>
-    <code><a href="https://netlify.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/netlify-icon.svg" title="Netlify" alt="netlify" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://vercel.com/" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/vercel-icon-dark.svg" title="Vercel" alt="vercel" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://heroku.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/heroku-original.svg" title="Heroku" alt="heroku" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
@@ -83,9 +74,7 @@ About Me = [
     <code><a href="https://github.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/github-original.svg" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/git-original.svg" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://jupyter.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/jupyter-original.svg" title="Jupyter Notebook" alt="jupyter" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://blender.org/" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/blender-original.svg" title="Blender" alt="blender" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/photoshop-original.svg" title="Adobe Photoshop" alt="photoshop" width="40" height="40"/></a></code>&nbsp;
-    <br><br>
+    <code><a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/dbc21551-755e-470e-8f19-a9542513cb97" title="Android Studio" alt="android-studio" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <div>
