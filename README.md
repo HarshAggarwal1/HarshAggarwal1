@@ -21,6 +21,8 @@
             </strong>
         </p>
         <h1></h1>
+        [![@harshaggarwal's Holopin board](https://holopin.me/harshaggarwal)](https://holopin.io/@harshaggarwal)
+        <h1></h1>
         <ul>
             <li>🔭 <b>I’m am an Android Developer.</li>
             <li>💬 <b>Ask me about</b>: Android Development, Machine Learning, JAVA, Python and DSA.</li>
@@ -105,6 +107,3 @@ About Me = [
         <p>Loading...</p>
     </div>
 </div>
-
-
-[![@harshaggarwal's Holopin board](https://holopin.me/harshaggarwal)](https://holopin.io/@harshaggarwal)
