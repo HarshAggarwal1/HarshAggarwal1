@@ -54,14 +54,12 @@ About Me = [
 
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
-    <code><a href="https://keras.io/" target="_blank"> <img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/76300410-c214-41b9-b918-45a7959fc363" title="NodeJS" alt="nodejs" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/nextjs-original.svg" title="NextJS" alt="nextjs" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://expressjs.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/express-original.svg" title="ExpressJS" alt="expressjs" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/bootstrap-original.svg" title="BootStrap" alt="bootstrap" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://jquery.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/jquery-original.svg" title="jQuery" alt="jquery" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/django-original.svg" title="Django" alt="django" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.selenium.dev/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/selenium-original.svg" title="Selenium" alt="selenium" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://opencv.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/opencv-original.svg" title="OpenCV" alt="opencv" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://keras.io/" target="_blank"> <img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/76300410-c214-41b9-b918-45a7959fc363" title="Keras" alt="keras" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/0322bd64-4859-44b9-afc5-e0d5d6dad073" title="TensorFlow" alt="tensorflow" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://pandas.pydata.org/" target="_blank"><img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/a33610e5-f6b2-4537-a68a-49627e70bc12" title="Pandas" alt="pandas" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://numpy.org/" target="_blank"><img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/c98584e0-1a34-434a-a5b1-0bdf3ba1ff6a" title="Numpy" alt="numpy" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/069926b9-9a4f-4337-bc3e-631b1d8009b8" title="Firebase" alt="firebase" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://github.com/bumptech/glide" target="_blank"><img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/50aea67d-eed1-43e8-b13f-aae28bce054a" title="Glide" alt="glide" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
