@@ -70,7 +70,7 @@ About Me = [
 
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
-    <code><a href="https://keras.io/" target="_blank"> <img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/76300410-c214-41b9-b918-45a7959fc363" title="Keras" alt="keras" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://keras.io/" target="_blank"><img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/76300410-c214-41b9-b918-45a7959fc363" title="Keras" alt="keras" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/0322bd64-4859-44b9-afc5-e0d5d6dad073" title="TensorFlow" alt="tensorflow" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://pandas.pydata.org/" target="_blank"><img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/a33610e5-f6b2-4537-a68a-49627e70bc12" title="Pandas" alt="pandas" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://numpy.org/" target="_blank"><img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/c98584e0-1a34-434a-a5b1-0bdf3ba1ff6a" title="Numpy" alt="numpy" width="40" height="40"/></a></code>&nbsp;
@@ -81,7 +81,7 @@ About Me = [
 <div align="center">
     <h3><b>Databases</b></h3>
     <code><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/mysql-original.svg" title="MySql" alt="mysql" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://firebase.com/" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/firebase-icon.svg" title="Firebase" alt="firebase" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://firebase.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/firebase-icon.svg" title="Firebase" alt="firebase" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
