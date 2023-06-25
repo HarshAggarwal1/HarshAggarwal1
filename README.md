@@ -42,7 +42,7 @@
 
 ```py
 About Me = [
-    "I'm student with noob dev labels",
+    "I'm student of CSB branch at IIIT Delhi",
     "A know about of Python, Java, Android, ML and many more libraraies, frameworks and databases",
     "New Things with code everyday",
     "I am in my world !! 💞"
