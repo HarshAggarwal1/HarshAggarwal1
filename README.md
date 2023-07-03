@@ -17,7 +17,7 @@
         <br />
         <p>
             <strong>
-                I'm a 3rd Year B.tech. Student at Indraprastha Institute of Information Technology, Delhi; I am an Android Developer and like contributing to Open-Source Communities. I have also participated in Hacktoberfest'22 and GSSoC'23. I like Android Development and have worked on many Android Projects; you can find projects in my profile. I am also a Machine Learning Enthusiast.
+                I'm a 3rd Year B.tech. Student at Indraprastha Institute of Information Technology, Delhi; I am an Android Developer and like contributing to Open-Source Communities. I have also participated in Hacktoberfest'22 and GSSoC'23. I like Android Development and have worked on many Android Projects; you can find projects in my profile. I also love Machine Learning and I have also done a course in my college.
             </strong>
         </p>
         <h1></h1>
