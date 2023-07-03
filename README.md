@@ -50,6 +50,15 @@ About Me = [
 ```
 <br>    
 
+## 🧑‍💻 Hacktoberfest'22 Open-Source Project Collaboration 
+    
+|S.No.|Open Source Program | Project |  Contribution Link|
+|--------|----|----|----|
+| 1 | Snake & Ladder GUI Game| Java & JavaFX program | [Project link](https://github.com/SamarthTMSL/HacktoberFest-GUI-Projects-and-Games) |
+| 2 | Searching and Sorting Algos | Python | [Project link](https://github.com/4N1Z/Sorting-Searching-Algorithms) |
+
+
+
 ## 🧑‍💻 GSSoc'23 Open-Source Project Collaboration 
     
 |S.No.|Open Source Program | Project |  Contribution Link|
