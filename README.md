@@ -33,7 +33,6 @@
             <li>🔭 <b>I’m am a Software Developer.</li>
             <li>💬 <b>Ask me about</b>: Full Stack Development, JAVA, Python and DSA. Also have knowledge of Machine Learning</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>⚡ Fun fact: <b>I think I am funny</b>.</li>
         </ul>
         <br />
     </div>
