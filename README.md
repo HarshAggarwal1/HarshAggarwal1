@@ -5,7 +5,7 @@
     <div align="center">
         <a href="https://github.com/HarshAggarwal1">
             <img
-                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harsh+Aggarwal;Student;Software+Engineer;ML-Enthusiast;Open-Source+Enthusiast;Android+Developer"
+                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harsh+Aggarwal;Software+Engineer;ML-Enthusiast;Open-Source+Enthusiast;Android+Developer"
             />
         </a>
     </div>
