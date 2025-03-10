@@ -30,10 +30,9 @@
     <div>
         <h1></h1>
         <ul>
-            <li>🔭 <b>I’m am an Android Developer.</li>
-            <li>💬 <b>Ask me about</b>: Android Development, JAVA, Python and DSA. Also beginner level knowledge of Machine Learning</li>
+            <li>🔭 <b>I’m am a Software Developer.</li>
+            <li>💬 <b>Ask me about</b>: Full Stack Development, JAVA, Python and DSA. Also have knowledge of Machine Learning</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.</li>
             <li>⚡ Fun fact: <b>I think I am funny</b>.</li>
         </ul>
         <br />
