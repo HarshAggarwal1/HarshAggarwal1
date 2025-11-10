@@ -5,7 +5,7 @@
     <div align="center">
         <a href="https://github.com/HarshAggarwal1">
             <img
-                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harsh+Aggarwal;Software+Engineer;ML-Enthusiast;Open-Source+Enthusiast;Android+Developer"
+                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harsh+Aggarwal;SDE;AI/ML+Enthusiast;Open-Source+Enthusiast;Full+Stack+Developer"
             />
         </a>
     </div>
@@ -17,7 +17,7 @@
         <br />
         <p>
             <strong>
-                I'm a 4th Year B.tech. Student at Indraprastha Institute of Information Technology, Delhi; I am an Android Developer and like contributing to Open-Source Communities. I have also participated in Hacktoberfest'22 and GSSoC'23. I like Android Development and have worked on many Android Projects; you can find projects in my profile. I also love Machine Learning and I have also done a course in my college.
+                I'm a SDE with more than 1 year experience, grduated in B.tech. CS from Indraprastha Institute of Information Technology, Delhi; I am an Full Stack Developer and like contributing to Open-Source Communities. I have also participated in Hacktoberfest'22 and GSSoC'23. I also love Machine Learning & AI.
             </strong>
         </p>
         <h1></h1>
